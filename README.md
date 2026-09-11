@@ -1,6 +1,17 @@
 <h1>Hej jag heter Sussan!</h1>
 
+Jag studerar webbutveckling på Mittuniversitetet och bygger just nu upp min kunsakper.
 
-Just nu studerar jag webbutveckling på Mittuniveristetet på distans.
-Det är är mycket nytt för mig och det är kul att lärara sig om
+<h2>Lite om mig</h2>
+Jag är en person som gillar ordning och förstå hur saker och ting hänger ihop.
+Det är är mycket nytt för mig vilket gör det mer spännande.
+
+<<h3>Vad jag jobbar med just nu</h3>
+I dagläget utför jag olika övnings laborationer tillhörade utbildningen
+Där jag förvärvar nya färdigheter inom HTML, snart CSS och JavaScript
+Övar på stuktur, versionshantering och publicering
+Git och GitHub
+
+<h4>Mina mål</h4>
+Att utvecklas inom webbutveckling 
 
