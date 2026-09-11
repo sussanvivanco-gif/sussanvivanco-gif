@@ -1,8 +1,8 @@
-<h1>Hej jag heter Sussan!</h1>
+<h1>Hej jag heter Sussan!</h1>🌞
 
 Jag studerar webbutveckling på Mittuniversitetet och bygger just nu upp min kunsakper.
 
-<h2>Lite om mig</h2> :flower:
+<h2>Lite om mig</h2> 🌺
 Jag är en person som gillar ordning och förstå hur saker och ting hänger ihop.
 Det är är mycket nytt för mig vilket gör det mer spännande.
 
